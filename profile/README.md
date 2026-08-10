@@ -4,6 +4,18 @@ The **Institute for Enterprise Infrastructure Engineering (IEIE)** is dedicated 
 
 ---
 
+## Thesis
+
+Enterprise Infrastructure has matured through successive generations of virtualization, cloud computing, automation, and platform technologies. While these advancements have produced increasingly capable infrastructure ecosystems, they have not fundamentally addressed the engineering of how those capabilities are composed, governed, consumed, and continuously evolved as Enterprise Infrastructure Services.
+
+As enterprise environments have grown in scale and complexity, the primary engineering challenge is no longer the implementation of individual technologies, but the coordination of technologies, operational teams, governance, enterprise systems, and service lifecycles into a coherent operational model.
+
+The Institute for Enterprise Infrastructure Engineering exists to establish the engineering discipline required to design, analyze, validate, and realize Enterprise Infrastructure Services as governed, deployable, and continuously evolving operational capabilities.
+
+The Institute integrates established engineering and scientific disciplines into a unified methodology that transforms Enterprise Infrastructure Services from collections of independent technology implementations into engineered operational systems.
+
+---
+
 ## Mission
 
 The Institute develops evidence-based methods, architectural models, and engineering practices that enable IT Operations organizations to design, deliver, operate, and continuously improve Enterprise Infrastructure Services.
