@@ -4,6 +4,48 @@ The **Institute for Enterprise Infrastructure Engineering (IEIE)** is dedicated 
 
 ---
 
+## Foundational Research Question
+
+Can Enterprise Infrastructure Services be engineered as explicit operational systems such that their operational behavior becomes predictable, measurable, governable, and continuously improvable?
+
+The Institute exists to answer this question through evidence-based engineering.
+
+---
+
+## Null Hypothesis (H₀)
+
+Enterprise Infrastructure Services emerge through the integration of independently managed technologies, organizational structures, governance processes, and operational practices. While organizations may successfully deliver infrastructure capabilities, the resulting services are assembled rather than engineered as explicit operational systems.
+
+If this hypothesis is correct, we should be able to predict and observe one or more of the following characteristics:
+
+- Organizational structures aligned primarily to technology domains.
+- Governance responsibilities distributed across independent technology or functional organizations.
+- Inconsistent definitions of the capabilities being delivered to consumers.
+- Significant manual coordination required to deliver, modify, or maintain infrastructure capabilities.
+- Limited ability to predict the operational impact of planned changes.
+- Automation implemented primarily within individual technology domains rather than across end-to-end operational processes.
+- Operational success dependent upon individual experience and institutional knowledge rather than explicit, repeatable engineering practices.
+
+---
+
+## Engineering Hypothesis (H₁)
+
+Enterprise Infrastructure Services engineered through explicit service models, dependency-aware operational architectures, and governed engineering practices will exhibit measurably different operational characteristics than services assembled through independent technology domains.
+
+If this hypothesis is correct, successive application of the engineering model should produce observable improvements including:
+
+- Organizational alignment around service delivery while preserving domain expertise.
+- Governance expressed through the engineered properties and obligations of services.
+- Consistent definitions of service capabilities and expected operational behavior.
+- Reduced manual coordination through explicit operational models and dependency-aware workflows.
+- Improved ability to predict the operational impact of planned changes.
+- Automation that spans end-to-end operational workflows rather than isolated technology domains.
+- Reduced dependence upon institutional knowledge through explicit engineering models and repeatable operational practices.
+
+The removal of the engineering model should predict the gradual re-emergence of the observations predicted by the null hypothesis.
+
+---
+
 ## Thesis
 
 Enterprise Infrastructure has matured through successive generations of virtualization, cloud computing, automation, and platform technologies. While these advancements have produced increasingly capable infrastructure ecosystems, they have not fundamentally addressed the engineering of how those capabilities are composed, governed, consumed, and continuously evolved as Enterprise Infrastructure Services.
