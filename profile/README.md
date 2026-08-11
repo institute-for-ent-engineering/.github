@@ -4,6 +4,22 @@ The **Institute for Enterprise Infrastructure Engineering (IEIE)** is dedicated 
 
 ---
 
+# Institute for Enterprise Infrastructure Engineering
+
+The Institute for Enterprise Infrastructure Engineering (IEIE) was established through research into Enterprise Infrastructure Services within IT Operations. As this work progressed, it became apparent that many of the underlying engineering principles were not unique to IT infrastructure, but instead reflected more general properties of complex operational systems.
+
+The Institute therefore distinguishes between its **method of inquiry** and its **domain of inquiry**.
+
+The method of inquiry is an evidence-based engineering methodology founded upon scientific observation, hypothesis testing, dependency modeling, and continuous refinement.
+
+The Institute's initial domain of inquiry is **Enterprise Infrastructure Platform Engineering**, with particular emphasis on Enterprise Infrastructure Platform Engineering (EIPE) and the engineering of Enterprise Infrastructure Services within IT Operations.
+
+As the body of evidence expands, the Institute expects these methods to be evaluated across additional classes of complex enterprise systems.
+
+---
+
+# Enterprise Infrastructure Platform Engineering 
+
 ## Foundational Research Question
 
 Can Enterprise Infrastructure Services be engineered as explicit operational systems such that their operational behavior becomes predictable, measurable, governable, and continuously improvable?
@@ -46,23 +62,9 @@ The removal of the engineering model should predict the gradual re-emergence of 
 
 ---
 
-## Thesis
-
-Enterprise Infrastructure has matured through successive generations of virtualization, cloud computing, automation, and platform technologies. While these advancements have produced increasingly capable infrastructure ecosystems, they have not fundamentally addressed the engineering of how those capabilities are composed, governed, consumed, and continuously evolved as Enterprise Infrastructure Services.
-
-As enterprise environments have grown in scale and complexity, the primary engineering challenge is no longer the implementation of individual technologies, but the coordination of technologies, operational teams, governance, enterprise systems, and service lifecycles into a coherent operational model.
-
-The Institute for Enterprise Infrastructure Engineering exists to establish the engineering discipline required to design, analyze, validate, and realize Enterprise Infrastructure Services as governed, deployable, and continuously evolving operational capabilities.
-
-The Institute integrates established engineering and scientific disciplines into a unified methodology that transforms Enterprise Infrastructure Services from collections of independent technology implementations into engineered operational systems.
-
----
-
 ## Mission
 
-The Institute develops evidence-based methods, architectural models, and engineering practices that enable IT Operations organizations to design, deliver, operate, and continuously improve Enterprise Infrastructure Services.
-
-Our work treats infrastructure not as a collection of technologies, but as an interconnected system of services, dependencies, obligations, governance, and executable capabilities.
+The Institute for Enterprise Infrastructure Engineering exists to establish the engineering discipline required to design, analyze, validate, and realize Enterprise Infrastructure Services as governed, deployable, and continuously evolving operational capabilities.  The Institute develops evidence-based methods, engineering models, reference architectures, and implementation practices that enable IT Operations organizations to engineer Enterprise Infrastructure Services rather than assemble them from independently managed technologies, organizations, and operational processes.  Our work strives to integrate established engineering and scientific disciplines into a unified methodology that transforms Enterprise Infrastructure from collections of technology implementations into coherent operational systems whose behavior can be predicted, observed, governed, and continuously refined.
 
 ---
 
@@ -84,7 +86,7 @@ The Institute focuses on the engineering of Enterprise Infrastructure Services t
 
 ---
 
-## Engineering Philosophy
+## Engineering Principles
 
 The Institute applies principles from systems engineering, scientific inquiry, software engineering, and operational analysis.
 
@@ -177,24 +179,10 @@ Current initiatives include:
 - Infrastructure Automation
 - Reference Implementations
 - Operational Intelligence
----
-
-## Research Portfolio
-
-| Repository | Description |
-|------------|-------------|
-| Charter | Mission, governance, and scope of the Institute |
-| Methodology | Foundational principles, axioms, and engineering methods |
-| IPERA | Infrastructure Platform Engineering Reference Architecture |
-| ESOM | Enterprise Service Operating Model |
-| Enterprise Service Graph | Dependency modeling and predictive analysis |
-| Operational Service Catalog | Engineering reusable Enterprise Infrastructure Services |
-| Publications | White papers, technical reports, and research papers |
-| Reference Implementations | Practical implementations of Institute methods |
 
 ---
 
-## Purpose
+## Vision
 
 The Institute exists to establish a coherent and reusable body of knowledge for Enterprise Infrastructure Engineering.
 
