@@ -50,4 +50,4 @@ The Institute pursues its mission through focused research projects that apply t
 
 ### Enterprise Infrastructure Platform Engineering ###
 Examines how existing infrastructure capabilities can be refactored and engineered as explicit enterprise services whose operational behavior can be understood, governed, automated, measured, and predicted.<br>
-https://github.com/orgs/institute-for-ent-engineering/repositories
+<a href="https://github.com/orgs/institute-for-ent-engineering/repositories" target="_blank" rel="noopener noreferrer">Research: Enterprise Infrastructure Platform Engineering</a>
