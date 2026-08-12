@@ -43,3 +43,11 @@ The Institute's method of inquiry is founded on the following principles:
 - **Artificial Intelligence is a computational tool.** AI may assist observation, analysis, inference, modeling, validation, and execution, but it does not replace the evidence, reasoning, or engineering methodology upon which conclusions are based.
 
 ---
+
+## Active Research Projects ##
+The Institute pursues its mission through focused research projects that apply the Institute's Method of Inquiry to specific areas of enterprise infrastructure engineering. Each project establishes its own research questions, hypotheses, domain of inquiry, and engineering artifacts while contributing to the Institute's broader body of knowledge.
+
+
+### Enterprise Infrastructure Platform Engineering ###
+Examines how existing infrastructure capabilities can be refactored and engineered as explicit enterprise services whose operational behavior can be understood, governed, automated, measured, and predicted.
+https://github.com/orgs/institute-for-ent-engineering/repositories
