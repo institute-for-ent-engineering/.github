@@ -6,7 +6,7 @@ The **Institute for Enterprise Infrastructure Engineering (IEIE)** is dedicated 
 
 # Institute for Enterprise Infrastructure Engineering
 
-The Institute for Enterprise Infrastructure Engineering (IEIE) was established through research into Enterprise Infrastructure Services within IT Operations. As this work progressed, we began to identify underlying principles that did not appear to be unique to IT infrastructure, but instead reflected more general properties of complex operational systems. This observation led us to distinguish between the **method of inquiry** and the **domain of inquiry**. Our method of inquiry is evidence-based, founded upon scientific observation, hypothesis testing, dependency modeling, and continuous refinement.  
+The Institute for Enterprise Infrastructure Engineering (IEIE) was established through research into Enterprise Infrastructure Services within IT Operations. As this work progressed, we began to identify underlying principles that did not appear to be unique to IT infrastructure, but instead reflected more general properties of complex operational systems. This observation led us to distinguish between the **Method of Inquiry** (MOI) and the **Domain of Inquiry** (DOI).  Our method of inquiry is evidence-based, founded upon scientific observation, hypothesis testing, dependency modeling, and continuous refinement.  
 
 The Institute's initial domain of inquiry is **Enterprise Infrastructure Platform Engineering**, with particular emphasis on Enterprise Infrastructure Platform Engineering (EIPE) and the engineering of Enterprise Infrastructure Services within IT Operations.
 
