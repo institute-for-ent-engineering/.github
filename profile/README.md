@@ -25,4 +25,4 @@ The Institute applies its **Method of Inquiry** through active **Domains of Inqu
 
 ### Enterprise Infrastructure Platform Engineering ###
 Examines how existing infrastructure capabilities can be refactored and engineered as explicit enterprise services whose operational behavior can be understood, governed, automated, measured, and predicted.<br>
-<a href="https://github.com/institute-for-ent-engineering/research-enterprise-infrastructure-platform-engineering">Research: Enterprise Infrastructure Platform Engineering</a>
+<a href="https://github.com/institute-for-ent-engineering/doi-enterprise-infrastructure-platform-engineering">Research: Enterprise Infrastructure Platform Engineering</a>
